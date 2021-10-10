@@ -1,0 +1,16 @@
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/bin/Debug/net5.0/console_proj
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/bin/Debug/net5.0/console_proj.deps.json
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/bin/Debug/net5.0/console_proj.runtimeconfig.json
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/bin/Debug/net5.0/console_proj.runtimeconfig.dev.json
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/bin/Debug/net5.0/console_proj.dll
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/bin/Debug/net5.0/ref/console_proj.dll
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/bin/Debug/net5.0/console_proj.pdb
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.csproj.AssemblyReference.cache
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.AssemblyInfoInputs.cache
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.AssemblyInfo.cs
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.csproj.CoreCompileInputs.cache
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.dll
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/ref/console_proj.dll
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.pdb
+/home/neimv/Projects/owns/microsoft-cloud/console_proj/obj/Debug/net5.0/console_proj.genruntimeconfig.cache
